@@ -1,5 +1,7 @@
 print ("==============================Toko Serba Ada======================================")
-
+penjual = input("Nama Penjual : ")
+print("===============================Selamat datang ditoko Bapak Udin====================")
+pembeli = input("Nama Pembeli : ")
 nama = input("Masukkan Nama Barang : ")
 x = int(input("Masukkan Harga Barang : "))
 jumlah_barang = int(input("Masukkan jumlah barang = "))
